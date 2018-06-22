@@ -12,4 +12,4 @@ class Person
   end
 end
 
-Jen = Person.new("Jen")
+jen = Person.new("Jen")
