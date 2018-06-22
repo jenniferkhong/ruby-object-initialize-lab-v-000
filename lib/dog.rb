@@ -19,3 +19,4 @@ class Dog
 end
 
 leo = Dog.new("Mutt")
+leo.breed
